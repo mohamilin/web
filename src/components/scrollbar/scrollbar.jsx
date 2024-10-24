@@ -40,3 +40,6 @@ export const Scrollbar = forwardRef(
     </Box>
   )
 );
+
+
+Scrollbar.displayName = 'Scrollbar';

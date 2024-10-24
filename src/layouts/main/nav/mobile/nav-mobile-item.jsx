@@ -70,3 +70,5 @@ const StyledNavItem = styled(ButtonBase, {
     backgroundColor: theme.vars.palette.action.hover,
   }),
 }));
+
+NavItem.displayName = 'NavItem';

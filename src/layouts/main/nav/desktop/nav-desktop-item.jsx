@@ -92,3 +92,5 @@ const StyledNavItem = styled(ButtonBase, {
     }),
   };
 });
+
+NavItem.displayName = 'NavItem';

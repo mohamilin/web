@@ -24,3 +24,5 @@ export const SvgColor = forwardRef(({ src, width = 24, height, className, sx, ..
     {...other}
   />
 ));
+
+SvgColor.displayName = 'SvgColor';

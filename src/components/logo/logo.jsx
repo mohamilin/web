@@ -75,3 +75,6 @@ export const Logo = forwardRef(
     );
   }
 );
+
+
+Logo.displayName = 'Logo';

@@ -46,6 +46,7 @@
     "embla-carousel-autoplay": "^8.1.8",
     "embla-carousel-fade": "^8.1.8",
     "embla-carousel-react": "^8.1.8",
+    "eslint-config-next": "^15.0.1",
     "framer-motion": "^11.3.24",
     "lodash": "^4.17.21",
     "mui-one-time-password-input": "^2.0.3",

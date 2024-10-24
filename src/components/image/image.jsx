@@ -106,3 +106,6 @@ export const Image = forwardRef(
     );
   }
 );
+
+
+Image.displayName = 'Image';

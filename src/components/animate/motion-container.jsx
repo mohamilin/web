@@ -22,3 +22,5 @@ export const MotionContainer = forwardRef(
     return <Box {...commonProps}>{children}</Box>;
   }
 );
+
+MotionContainer.displayName = 'MotionContainer';

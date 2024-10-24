@@ -42,3 +42,4 @@ export const Iconify = forwardRef(({ className, width = 20, sx, ...other }, ref)
 
 // https://iconify.design/docs/iconify-icon/disable-cache.html
 disableCache('local');
+Iconify.displayName = 'Iconify';

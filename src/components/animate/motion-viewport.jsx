@@ -30,3 +30,5 @@ export const MotionViewport = forwardRef(({ children, disableAnimate = true, ...
     </Box>
   );
 });
+
+MotionViewport.displayName = 'MotionViewport';
